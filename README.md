@@ -2,7 +2,7 @@
 How to remove a .jpg file's EXIF metadata with exiftools in a Linux terminal
 
 ```
-sudo apt-get install libimage-exiftool-perl
+sudo apt install libimage-exiftool-perl
 ```
 
 In the folder containing the images:
